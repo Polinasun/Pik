@@ -1,0 +1,1 @@
+start cmd /k "cd .\newenv\Scripts && activate && cd ..\..\homesite && manage.py runserver 8000 && pause"
